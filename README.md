@@ -1,6 +1,7 @@
 # Generate_Display_QRcode
 
 Program Features:
+
     Encodes text string into a matrix representing the QR Code
       -program does not check length of text to make sure the QRcode version is able to generate it
     Displays the resulting code on the OLED display
