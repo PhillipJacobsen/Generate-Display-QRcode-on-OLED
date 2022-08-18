@@ -7,5 +7,9 @@ Program Features:
     The QRcode will be doubled in size so that each QR code pixel shows up as four pixels on the OLED display.
     Default is lit background with Black QRcode. Inverse can also be displayed however codes seem to scan much better with lit background.
 
-Uses QRCode library by Richard Moore version 0.0.1
-        https://github.com/ricmoo/QRCode
+Attributions
+--
+
+Uses the [QRCode library by Richard Moore version](https://github.com/ricmoo/QRCode) (0.0.1) which is based off of the [QR Code generator by Nayuki](https://github.com/nayuki/QR-Code-generator).
+
+Also uses the [U8g2 library by olikraus](https://github.com/olikraus/u8g2).
